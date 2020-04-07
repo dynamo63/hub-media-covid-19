@@ -101,133 +101,133 @@
     <section class="articles">
         <div class="article border-none">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article article-fluid">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
             <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
         </div>
         <div class="article">
             <div>
-                <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                 <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
             </div>
             <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
@@ -238,21 +238,21 @@
             </div>
             <div class="article">
                 <div>
-                    <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                    <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                     <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
                 </div>
                 <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
             </div>
             <div class="article">
                 <div>
-                    <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                    <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                     <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
                 </div>
                 <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
             </div>
             <div class="article">
                 <div>
-                    <p>Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois</p>
+                    <p><?php echo substr("Coronavirus: gratuité de l'eau et de l'électricité pour 3 mois",0,40) . "..." ?></p>
                     <div class="actu-footer"><span class="source">Medisite</span><span class="vues"><i class="fa fa-eye"></i> 526</span></div>
                 </div>
                 <img src="<?= theme_url('covid'); ?>assets/img/actu.jpeg" alt="article">
