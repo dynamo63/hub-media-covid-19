@@ -80,7 +80,9 @@ section.home .titre span:first-child {
 }
 
 section.home .titre span:last-child {
+    margin-top: 1em;
     font-size: 12px;
+    /* color: #0051e9; */
 }
 
 section.home .appeler {

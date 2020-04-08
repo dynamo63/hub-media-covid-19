@@ -29,7 +29,7 @@
     </header>
     <section class="home">
         <div class="head">
-            <h1 class="titre"><span>Hub média</span><span>COVID-19</span></h1>
+            <h1 class="titre"><span>Hub média</span><span>COVID-19</span><span>by Ecole241</span> </h1>
             <a class="appeler" href="tel:1410">Appeler le 1410<br>gratuitement</a>
         </div>
         <div class="statistiques">
